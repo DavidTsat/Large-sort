@@ -1,0 +1,48 @@
+Generating random doubles!
+Random doubles successfully generated!
+second: 12201611
+0-th temporary file successfully sorted!
+second: 12201611
+1-th temporary file successfully sorted!
+second: 12201611
+2-th temporary file successfully sorted!
+second: 12201611
+3-th temporary file successfully sorted!
+second: 12201611
+4-th temporary file successfully sorted!
+second: 12201611
+5-th temporary file successfully sorted!
+second: 12201611
+6-th temporary file successfully sorted!
+second: 12201611
+7-th temporary file successfully sorted!
+second: 12201611
+8-th temporary file successfully sorted!
+second: 12201611
+9-th temporary file successfully sorted!
+second: 12201611
+10-th temporary file successfully sorted!
+second: 7
+11-th temporary file successfully sorted!
+second: 0
+temp_files_streams 12
+Priority queue successfully created!
+Merging sorted temporary files ...
+Merge successfully finished
+Checking sorted files ...C:\Users\david\Desktop\output_sorted_doubles.bin
+File is sorted
+Elapsed time: 559 seconds!
+Successfully Finished!
+Removing temporary files ...
+C:\Users\david\Desktop\temp_file0 temporary file removed successfully!
+C:\Users\david\Desktop\temp_file1 temporary file removed successfully!
+C:\Users\david\Desktop\temp_file2 temporary file removed successfully!
+C:\Users\david\Desktop\temp_file3 temporary file removed successfully!
+C:\Users\david\Desktop\temp_file4 temporary file removed successfully!
+C:\Users\david\Desktop\temp_file5 temporary file removed successfully!
+C:\Users\david\Desktop\temp_file6 temporary file removed successfully!
+C:\Users\david\Desktop\temp_file7 temporary file removed successfully!
+C:\Users\david\Desktop\temp_file8 temporary file removed successfully!
+C:\Users\david\Desktop\temp_file9 temporary file removed successfully!
+C:\Users\david\Desktop\temp_file10 temporary file removed successfully!
+C:\Users\david\Desktop\temp_file11 temporary file removed successfully!
